@@ -1,4 +1,3 @@
-import numpy as np
 x = int(input())
 if n > 0:
     print(1)
